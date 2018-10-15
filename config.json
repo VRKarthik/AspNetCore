@@ -1,0 +1,6 @@
+{
+    "ConnectionStrings": {
+      "IdentityDbConnectionString": "Data Source=E:\\vscode\\IdentityExample\\database\\IdentityDatabase.db;"
+    }
+  }
+  
